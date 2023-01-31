@@ -1,9 +1,12 @@
 .Titel {
-    font-size: 36px;
+    font-size: 64px;
     color: rgb(38, 38, 38);
     margin: 0 auto;
 }
 .Banner {
     width: 100%;
     
+}
+body {
+    background-color:silver;
 }
